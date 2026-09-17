@@ -17,4 +17,4 @@ The script generates a publication-ready paired slopegraph featuring:
 *   Mean overlay with error bars (black diamonds).
 *   Embedded statistical annotations (Mean Difference, Permutation *p*-value, and Effect Size).
 
-![EEG Alpha Power Graph](eeg_graph.png)
+
